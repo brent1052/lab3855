@@ -1,0 +1,9 @@
+version: 1
+eventstore1:
+ url: brent3855.eastus2.cloudapp.azure.com/censor/motion
+eventstore2:
+ url: brent3855.eastus2.cloudapp.azure.com/censor/door
+events:
+  hostname: brent3855.eastus2.cloudapp.azure.com
+  port: 9092
+  topics: events

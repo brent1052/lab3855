@@ -1,0 +1,9 @@
+version: 1
+datastore:
+ filename: data.json
+scheduler:
+ period_sec: 5
+eventstore:
+ url: http://brent3855.eastus2.cloudapp.azure.com/censor/get
+eventstore1:
+ url: http://brent3855.eastus2.cloudapp.azure.com/censor/getm
