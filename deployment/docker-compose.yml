@@ -44,8 +44,8 @@ services:
     volumes:
       - my-db:/var/lib/mysql
 # Names our volume
-  reciever:
-    image: reciever
+  receiver:
+    image: receiver
     ports:
       - "8080:8080"
     depends_on:
