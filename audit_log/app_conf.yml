@@ -1,0 +1,9 @@
+version: 1
+eventstore1:
+ url: http://brent3855.eastus2.cloudapp.azure.com/censor/motion
+eventstore2:
+ url: http://brent3855.eastus2.cloudapp.azure.com/readings/door
+events:
+  hostname: lab3855.westus.cloudapp.azure.com
+  port: 9092
+  topics: events
