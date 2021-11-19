@@ -1,0 +1,577 @@
+2021-11-18 16:31:13,791 - basicLogger - INFO - Start processing
+2021-11-18 16:31:38,186 - basicLogger - INFO - events recieved 4
+2021-11-18 16:31:38,778 - basicLogger - INFO - Start processing
+2021-11-18 16:31:43,427 - basicLogger - INFO - events recieved 0
+2021-11-18 16:31:43,443 - basicLogger - INFO - end of processing
+2021-11-18 16:31:43,787 - basicLogger - INFO - Start processing
+2021-11-18 16:31:48,426 - basicLogger - INFO - events recieved 0
+2021-11-18 16:31:48,426 - basicLogger - INFO - end of processing
+2021-11-18 16:31:48,786 - basicLogger - INFO - Start processing
+2021-11-18 16:31:53,462 - basicLogger - INFO - events recieved 0
+2021-11-18 16:31:53,462 - basicLogger - INFO - end of processing
+2021-11-18 16:31:53,775 - basicLogger - INFO - Start processing
+2021-11-18 16:31:58,419 - basicLogger - INFO - events recieved 0
+2021-11-18 16:31:58,419 - basicLogger - INFO - end of processing
+2021-11-18 16:31:58,778 - basicLogger - INFO - Start processing
+2021-11-18 16:32:10,357 - basicLogger - INFO - events recieved 0
+2021-11-18 16:32:10,357 - basicLogger - INFO - end of processing
+2021-11-18 16:32:13,778 - basicLogger - INFO - Start processing
+2021-11-18 16:32:18,397 - basicLogger - INFO - events recieved 0
+2021-11-18 16:32:18,397 - basicLogger - INFO - end of processing
+2021-11-18 16:32:18,777 - basicLogger - INFO - Start processing
+2021-11-18 16:32:23,472 - basicLogger - INFO - events recieved 0
+2021-11-18 16:32:23,472 - basicLogger - INFO - end of processing
+2021-11-18 16:32:23,785 - basicLogger - INFO - Start processing
+2021-11-18 16:32:28,412 - basicLogger - INFO - events recieved 0
+2021-11-18 16:32:28,413 - basicLogger - INFO - end of processing
+2021-11-18 16:32:28,782 - basicLogger - INFO - Start processing
+2021-11-18 16:32:33,422 - basicLogger - INFO - events recieved 0
+2021-11-18 16:32:33,422 - basicLogger - INFO - end of processing
+2021-11-18 16:32:33,789 - basicLogger - INFO - Start processing
+2021-11-18 16:32:38,403 - basicLogger - INFO - events recieved 0
+2021-11-18 16:32:38,403 - basicLogger - INFO - end of processing
+2021-11-18 16:32:38,789 - basicLogger - INFO - Start processing
+2021-11-18 16:32:43,484 - basicLogger - INFO - events recieved 0
+2021-11-18 16:32:43,484 - basicLogger - INFO - end of processing
+2021-11-18 16:32:43,790 - basicLogger - INFO - Start processing
+2021-11-18 16:32:48,412 - basicLogger - INFO - events recieved 1
+2021-11-18 16:32:48,412 - basicLogger - DEBUG - [
+    {
+        "Total of event 1": 1,
+        "Total of event 2": 0,
+        "Couch sits": 0,
+        "Door open": 0,
+        "Last_update": "2021-11-18T16:32:43Z"
+    }
+]
+2021-11-18 16:32:48,428 - basicLogger - INFO - end of processing
+2021-11-18 16:32:48,783 - basicLogger - INFO - Start processing
+2021-11-18 16:32:53,466 - basicLogger - INFO - events recieved 0
+2021-11-18 16:32:53,467 - basicLogger - INFO - end of processing
+2021-11-18 16:32:53,788 - basicLogger - INFO - Start processing
+2021-11-18 16:32:57,584 - basicLogger - INFO - request processing
+2021-11-18 16:32:57,585 - basicLogger - INFO - request has completed
+2021-11-18 16:32:58,426 - basicLogger - INFO - events recieved 0
+2021-11-18 16:32:58,427 - basicLogger - INFO - end of processing
+2021-11-18 16:32:58,781 - basicLogger - INFO - Start processing
+2021-11-18 16:33:00,602 - basicLogger - INFO - request processing
+2021-11-18 16:33:00,603 - basicLogger - INFO - request has completed
+2021-11-18 16:33:03,457 - basicLogger - INFO - events recieved 0
+2021-11-18 16:33:03,457 - basicLogger - INFO - end of processing
+2021-11-18 16:33:03,777 - basicLogger - INFO - Start processing
+2021-11-18 16:33:11,333 - basicLogger - INFO - events recieved 0
+2021-11-18 16:33:11,334 - basicLogger - INFO - end of processing
+2021-11-18 16:33:13,783 - basicLogger - INFO - Start processing
+2021-11-18 16:33:18,414 - basicLogger - INFO - events recieved 0
+2021-11-18 16:33:18,414 - basicLogger - INFO - end of processing
+2021-11-18 16:33:18,780 - basicLogger - INFO - Start processing
+2021-11-18 16:33:23,396 - basicLogger - INFO - events recieved 0
+2021-11-18 16:33:23,396 - basicLogger - INFO - end of processing
+2021-11-18 16:33:23,776 - basicLogger - INFO - Start processing
+2021-11-18 16:33:28,407 - basicLogger - INFO - events recieved 0
+2021-11-18 16:33:28,408 - basicLogger - INFO - end of processing
+2021-11-18 16:33:28,784 - basicLogger - INFO - Start processing
+2021-11-18 16:33:33,427 - basicLogger - INFO - events recieved 0
+2021-11-18 16:33:33,427 - basicLogger - INFO - end of processing
+2021-11-18 16:33:33,780 - basicLogger - INFO - Start processing
+2021-11-18 16:33:38,429 - basicLogger - INFO - events recieved 0
+2021-11-18 16:33:38,430 - basicLogger - INFO - end of processing
+2021-11-18 16:33:38,779 - basicLogger - INFO - Start processing
+2021-11-18 16:33:48,736 - basicLogger - INFO - events recieved 0
+2021-11-18 16:33:48,736 - basicLogger - INFO - end of processing
+2021-11-18 16:33:48,779 - basicLogger - INFO - Start processing
+2021-11-18 16:33:53,403 - basicLogger - INFO - events recieved 0
+2021-11-18 16:33:53,403 - basicLogger - INFO - end of processing
+2021-11-18 16:33:53,777 - basicLogger - INFO - Start processing
+2021-11-18 16:33:58,385 - basicLogger - INFO - events recieved 0
+2021-11-18 16:33:58,385 - basicLogger - INFO - end of processing
+2021-11-18 16:33:58,784 - basicLogger - INFO - Start processing
+2021-11-18 16:34:03,418 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:03,419 - basicLogger - INFO - end of processing
+2021-11-18 16:34:03,784 - basicLogger - INFO - Start processing
+2021-11-18 16:34:08,417 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:08,417 - basicLogger - INFO - end of processing
+2021-11-18 16:34:08,777 - basicLogger - INFO - Start processing
+2021-11-18 16:34:13,411 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:13,412 - basicLogger - INFO - end of processing
+2021-11-18 16:34:13,777 - basicLogger - INFO - Start processing
+2021-11-18 16:34:21,524 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:21,525 - basicLogger - INFO - end of processing
+2021-11-18 16:34:23,778 - basicLogger - INFO - Start processing
+2021-11-18 16:34:28,411 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:28,411 - basicLogger - INFO - end of processing
+2021-11-18 16:34:28,783 - basicLogger - INFO - Start processing
+2021-11-18 16:34:33,409 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:33,409 - basicLogger - INFO - end of processing
+2021-11-18 16:34:33,785 - basicLogger - INFO - Start processing
+2021-11-18 16:34:38,444 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:38,445 - basicLogger - INFO - end of processing
+2021-11-18 16:34:38,787 - basicLogger - INFO - Start processing
+2021-11-18 16:34:43,440 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:43,441 - basicLogger - INFO - end of processing
+2021-11-18 16:34:43,786 - basicLogger - INFO - Start processing
+2021-11-18 16:34:48,393 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:48,393 - basicLogger - INFO - end of processing
+2021-11-18 16:34:48,776 - basicLogger - INFO - Start processing
+2021-11-18 16:34:53,403 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:53,403 - basicLogger - INFO - end of processing
+2021-11-18 16:34:53,779 - basicLogger - INFO - Start processing
+2021-11-18 16:34:58,407 - basicLogger - INFO - events recieved 0
+2021-11-18 16:34:58,407 - basicLogger - INFO - end of processing
+2021-11-18 16:34:58,784 - basicLogger - INFO - Start processing
+2021-11-18 16:35:03,433 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:03,433 - basicLogger - INFO - end of processing
+2021-11-18 16:35:03,777 - basicLogger - INFO - Start processing
+2021-11-18 16:35:08,419 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:08,419 - basicLogger - INFO - end of processing
+2021-11-18 16:35:08,790 - basicLogger - INFO - Start processing
+2021-11-18 16:35:13,432 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:13,432 - basicLogger - INFO - end of processing
+2021-11-18 16:35:13,776 - basicLogger - INFO - Start processing
+2021-11-18 16:35:18,402 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:18,403 - basicLogger - INFO - end of processing
+2021-11-18 16:35:18,787 - basicLogger - INFO - Start processing
+2021-11-18 16:35:23,421 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:23,422 - basicLogger - INFO - end of processing
+2021-11-18 16:35:23,776 - basicLogger - INFO - Start processing
+2021-11-18 16:35:28,428 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:28,429 - basicLogger - INFO - end of processing
+2021-11-18 16:35:28,792 - basicLogger - INFO - Start processing
+2021-11-18 16:35:33,412 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:33,412 - basicLogger - INFO - end of processing
+2021-11-18 16:35:33,781 - basicLogger - INFO - Start processing
+2021-11-18 16:35:38,424 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:38,424 - basicLogger - INFO - end of processing
+2021-11-18 16:35:38,788 - basicLogger - INFO - Start processing
+2021-11-18 16:35:43,464 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:43,465 - basicLogger - INFO - end of processing
+2021-11-18 16:35:43,786 - basicLogger - INFO - Start processing
+2021-11-18 16:35:48,419 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:48,420 - basicLogger - INFO - end of processing
+2021-11-18 16:35:48,785 - basicLogger - INFO - Start processing
+2021-11-18 16:35:53,431 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:53,431 - basicLogger - INFO - end of processing
+2021-11-18 16:35:53,791 - basicLogger - INFO - Start processing
+2021-11-18 16:35:58,401 - basicLogger - INFO - events recieved 0
+2021-11-18 16:35:58,401 - basicLogger - INFO - end of processing
+2021-11-18 16:35:58,790 - basicLogger - INFO - Start processing
+2021-11-18 16:36:03,464 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:03,465 - basicLogger - INFO - end of processing
+2021-11-18 16:36:03,789 - basicLogger - INFO - Start processing
+2021-11-18 16:36:08,396 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:08,397 - basicLogger - INFO - end of processing
+2021-11-18 16:36:08,782 - basicLogger - INFO - Start processing
+2021-11-18 16:36:13,424 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:13,425 - basicLogger - INFO - end of processing
+2021-11-18 16:36:13,788 - basicLogger - INFO - Start processing
+2021-11-18 16:36:18,426 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:18,426 - basicLogger - INFO - end of processing
+2021-11-18 16:36:18,789 - basicLogger - INFO - Start processing
+2021-11-18 16:36:23,418 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:23,418 - basicLogger - INFO - end of processing
+2021-11-18 16:36:23,786 - basicLogger - INFO - Start processing
+2021-11-18 16:36:28,437 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:28,438 - basicLogger - INFO - end of processing
+2021-11-18 16:36:28,786 - basicLogger - INFO - Start processing
+2021-11-18 16:36:33,431 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:33,432 - basicLogger - INFO - end of processing
+2021-11-18 16:36:33,777 - basicLogger - INFO - Start processing
+2021-11-18 16:36:38,400 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:38,401 - basicLogger - INFO - end of processing
+2021-11-18 16:36:38,785 - basicLogger - INFO - Start processing
+2021-11-18 16:36:43,427 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:43,427 - basicLogger - INFO - end of processing
+2021-11-18 16:36:43,775 - basicLogger - INFO - Start processing
+2021-11-18 16:36:48,430 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:48,430 - basicLogger - INFO - end of processing
+2021-11-18 16:36:48,778 - basicLogger - INFO - Start processing
+2021-11-18 16:36:53,420 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:53,422 - basicLogger - INFO - end of processing
+2021-11-18 16:36:53,776 - basicLogger - INFO - Start processing
+2021-11-18 16:36:58,417 - basicLogger - INFO - events recieved 0
+2021-11-18 16:36:58,417 - basicLogger - INFO - end of processing
+2021-11-18 16:36:58,785 - basicLogger - INFO - Start processing
+2021-11-18 16:37:03,432 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:03,433 - basicLogger - INFO - end of processing
+2021-11-18 16:37:03,789 - basicLogger - INFO - Start processing
+2021-11-18 16:37:08,416 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:08,417 - basicLogger - INFO - end of processing
+2021-11-18 16:37:08,778 - basicLogger - INFO - Start processing
+2021-11-18 16:37:13,458 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:13,458 - basicLogger - INFO - end of processing
+2021-11-18 16:37:13,782 - basicLogger - INFO - Start processing
+2021-11-18 16:37:18,421 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:18,421 - basicLogger - INFO - end of processing
+2021-11-18 16:37:18,783 - basicLogger - INFO - Start processing
+2021-11-18 16:37:23,440 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:23,440 - basicLogger - INFO - end of processing
+2021-11-18 16:37:23,786 - basicLogger - INFO - Start processing
+2021-11-18 16:37:28,445 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:28,445 - basicLogger - INFO - end of processing
+2021-11-18 16:37:28,783 - basicLogger - INFO - Start processing
+2021-11-18 16:37:33,427 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:33,428 - basicLogger - INFO - end of processing
+2021-11-18 16:37:33,790 - basicLogger - INFO - Start processing
+2021-11-18 16:37:38,421 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:38,422 - basicLogger - INFO - end of processing
+2021-11-18 16:37:38,783 - basicLogger - INFO - Start processing
+2021-11-18 16:37:43,479 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:43,480 - basicLogger - INFO - end of processing
+2021-11-18 16:37:43,780 - basicLogger - INFO - Start processing
+2021-11-18 16:37:48,409 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:48,410 - basicLogger - INFO - end of processing
+2021-11-18 16:37:48,784 - basicLogger - INFO - Start processing
+2021-11-18 16:37:53,438 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:53,439 - basicLogger - INFO - end of processing
+2021-11-18 16:37:53,785 - basicLogger - INFO - Start processing
+2021-11-18 16:37:58,408 - basicLogger - INFO - events recieved 0
+2021-11-18 16:37:58,408 - basicLogger - INFO - end of processing
+2021-11-18 16:37:58,785 - basicLogger - INFO - Start processing
+2021-11-18 16:38:03,406 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:03,407 - basicLogger - INFO - end of processing
+2021-11-18 16:38:03,776 - basicLogger - INFO - Start processing
+2021-11-18 16:38:08,381 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:08,383 - basicLogger - INFO - end of processing
+2021-11-18 16:38:08,791 - basicLogger - INFO - Start processing
+2021-11-18 16:38:13,429 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:13,429 - basicLogger - INFO - end of processing
+2021-11-18 16:38:13,787 - basicLogger - INFO - Start processing
+2021-11-18 16:38:18,426 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:18,426 - basicLogger - INFO - end of processing
+2021-11-18 16:38:18,784 - basicLogger - INFO - Start processing
+2021-11-18 16:38:23,418 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:23,418 - basicLogger - INFO - end of processing
+2021-11-18 16:38:23,783 - basicLogger - INFO - Start processing
+2021-11-18 16:38:28,418 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:28,418 - basicLogger - INFO - end of processing
+2021-11-18 16:38:28,787 - basicLogger - INFO - Start processing
+2021-11-18 16:38:33,409 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:33,410 - basicLogger - INFO - end of processing
+2021-11-18 16:38:33,777 - basicLogger - INFO - Start processing
+2021-11-18 16:38:38,398 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:38,398 - basicLogger - INFO - end of processing
+2021-11-18 16:38:38,779 - basicLogger - INFO - Start processing
+2021-11-18 16:38:43,397 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:43,398 - basicLogger - INFO - end of processing
+2021-11-18 16:38:43,784 - basicLogger - INFO - Start processing
+2021-11-18 16:38:48,481 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:48,481 - basicLogger - INFO - end of processing
+2021-11-18 16:38:48,780 - basicLogger - INFO - Start processing
+2021-11-18 16:38:53,415 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:53,416 - basicLogger - INFO - end of processing
+2021-11-18 16:38:53,782 - basicLogger - INFO - Start processing
+2021-11-18 16:38:58,445 - basicLogger - INFO - events recieved 0
+2021-11-18 16:38:58,445 - basicLogger - INFO - end of processing
+2021-11-18 16:38:58,786 - basicLogger - INFO - Start processing
+2021-11-18 16:39:03,412 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:03,412 - basicLogger - INFO - end of processing
+2021-11-18 16:39:03,779 - basicLogger - INFO - Start processing
+2021-11-18 16:39:08,439 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:08,439 - basicLogger - INFO - end of processing
+2021-11-18 16:39:08,777 - basicLogger - INFO - Start processing
+2021-11-18 16:39:13,414 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:13,414 - basicLogger - INFO - end of processing
+2021-11-18 16:39:13,778 - basicLogger - INFO - Start processing
+2021-11-18 16:39:18,453 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:18,454 - basicLogger - INFO - end of processing
+2021-11-18 16:39:18,780 - basicLogger - INFO - Start processing
+2021-11-18 16:39:23,392 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:23,392 - basicLogger - INFO - end of processing
+2021-11-18 16:39:23,783 - basicLogger - INFO - Start processing
+2021-11-18 16:39:28,426 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:28,426 - basicLogger - INFO - end of processing
+2021-11-18 16:39:28,778 - basicLogger - INFO - Start processing
+2021-11-18 16:39:33,401 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:33,402 - basicLogger - INFO - end of processing
+2021-11-18 16:39:33,777 - basicLogger - INFO - Start processing
+2021-11-18 16:39:38,415 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:38,415 - basicLogger - INFO - end of processing
+2021-11-18 16:39:38,778 - basicLogger - INFO - Start processing
+2021-11-18 16:39:43,430 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:43,431 - basicLogger - INFO - end of processing
+2021-11-18 16:39:43,785 - basicLogger - INFO - Start processing
+2021-11-18 16:39:48,420 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:48,420 - basicLogger - INFO - end of processing
+2021-11-18 16:39:48,778 - basicLogger - INFO - Start processing
+2021-11-18 16:39:53,417 - basicLogger - INFO - events recieved 0
+2021-11-18 16:39:53,418 - basicLogger - INFO - end of processing
+2021-11-18 16:39:53,779 - basicLogger - INFO - Start processing
+2021-11-18 16:40:00,003 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:00,004 - basicLogger - INFO - end of processing
+2021-11-18 16:40:03,778 - basicLogger - INFO - Start processing
+2021-11-18 16:40:08,410 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:08,411 - basicLogger - INFO - end of processing
+2021-11-18 16:40:08,785 - basicLogger - INFO - Start processing
+2021-11-18 16:40:13,438 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:13,439 - basicLogger - INFO - end of processing
+2021-11-18 16:40:13,783 - basicLogger - INFO - Start processing
+2021-11-18 16:40:18,436 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:18,436 - basicLogger - INFO - end of processing
+2021-11-18 16:40:18,783 - basicLogger - INFO - Start processing
+2021-11-18 16:40:23,428 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:23,428 - basicLogger - INFO - end of processing
+2021-11-18 16:40:23,777 - basicLogger - INFO - Start processing
+2021-11-18 16:40:28,405 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:28,405 - basicLogger - INFO - end of processing
+2021-11-18 16:40:28,784 - basicLogger - INFO - Start processing
+2021-11-18 16:40:33,445 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:33,445 - basicLogger - INFO - end of processing
+2021-11-18 16:40:33,782 - basicLogger - INFO - Start processing
+2021-11-18 16:40:38,424 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:38,424 - basicLogger - INFO - end of processing
+2021-11-18 16:40:38,777 - basicLogger - INFO - Start processing
+2021-11-18 16:40:43,418 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:43,418 - basicLogger - INFO - end of processing
+2021-11-18 16:40:43,785 - basicLogger - INFO - Start processing
+2021-11-18 16:40:48,431 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:48,432 - basicLogger - INFO - end of processing
+2021-11-18 16:40:48,784 - basicLogger - INFO - Start processing
+2021-11-18 16:40:53,456 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:53,457 - basicLogger - INFO - end of processing
+2021-11-18 16:40:53,785 - basicLogger - INFO - Start processing
+2021-11-18 16:40:58,437 - basicLogger - INFO - events recieved 0
+2021-11-18 16:40:58,438 - basicLogger - INFO - end of processing
+2021-11-18 16:40:58,786 - basicLogger - INFO - Start processing
+2021-11-18 16:41:03,451 - basicLogger - INFO - events recieved 0
+2021-11-18 16:41:03,451 - basicLogger - INFO - end of processing
+2021-11-18 16:41:03,778 - basicLogger - INFO - Start processing
+2021-11-18 16:41:08,398 - basicLogger - INFO - events recieved 0
+2021-11-18 16:41:08,399 - basicLogger - INFO - end of processing
+2021-11-18 16:41:08,787 - basicLogger - INFO - Start processing
+2021-11-18 16:41:13,409 - basicLogger - INFO - events recieved 0
+2021-11-18 16:41:13,410 - basicLogger - INFO - end of processing
+2021-11-18 16:41:13,790 - basicLogger - INFO - Start processing
+2021-11-18 16:41:25,097 - basicLogger - INFO - events recieved 0
+2021-11-18 16:41:25,098 - basicLogger - INFO - end of processing
+2021-11-18 16:41:28,780 - basicLogger - INFO - Start processing
+2021-11-18 16:41:33,414 - basicLogger - INFO - events recieved 0
+2021-11-18 16:41:33,414 - basicLogger - INFO - end of processing
+2021-11-18 16:41:33,781 - basicLogger - INFO - Start processing
+2021-11-18 16:41:38,422 - basicLogger - INFO - events recieved 0
+2021-11-18 16:41:38,423 - basicLogger - INFO - end of processing
+2021-11-18 16:41:38,775 - basicLogger - INFO - Start processing
+2021-11-18 16:41:43,419 - basicLogger - INFO - events recieved 0
+2021-11-18 16:41:43,420 - basicLogger - INFO - end of processing
+2021-11-18 16:41:43,783 - basicLogger - INFO - Start processing
+2021-11-18 16:41:48,411 - basicLogger - INFO - events recieved 0
+2021-11-18 16:41:48,411 - basicLogger - INFO - end of processing
+2021-11-18 16:41:48,790 - basicLogger - INFO - Start processing
+2021-11-18 16:41:53,431 - basicLogger - INFO - events recieved 0
+2021-11-18 16:41:53,431 - basicLogger - INFO - end of processing
+2021-11-18 16:41:53,782 - basicLogger - INFO - Start processing
+2021-11-18 16:41:58,421 - basicLogger - INFO - events recieved 0
+2021-11-18 16:41:58,421 - basicLogger - INFO - end of processing
+2021-11-18 16:41:58,781 - basicLogger - INFO - Start processing
+2021-11-18 16:42:03,418 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:03,418 - basicLogger - INFO - end of processing
+2021-11-18 16:42:03,783 - basicLogger - INFO - Start processing
+2021-11-18 16:42:08,417 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:08,418 - basicLogger - INFO - end of processing
+2021-11-18 16:42:08,790 - basicLogger - INFO - Start processing
+2021-11-18 16:42:13,428 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:13,428 - basicLogger - INFO - end of processing
+2021-11-18 16:42:13,787 - basicLogger - INFO - Start processing
+2021-11-18 16:42:18,409 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:18,410 - basicLogger - INFO - end of processing
+2021-11-18 16:42:18,785 - basicLogger - INFO - Start processing
+2021-11-18 16:42:23,433 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:23,433 - basicLogger - INFO - end of processing
+2021-11-18 16:42:23,781 - basicLogger - INFO - Start processing
+2021-11-18 16:42:28,448 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:28,448 - basicLogger - INFO - end of processing
+2021-11-18 16:42:28,789 - basicLogger - INFO - Start processing
+2021-11-18 16:42:37,602 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:37,603 - basicLogger - INFO - end of processing
+2021-11-18 16:42:38,781 - basicLogger - INFO - Start processing
+2021-11-18 16:42:43,429 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:43,430 - basicLogger - INFO - end of processing
+2021-11-18 16:42:43,777 - basicLogger - INFO - Start processing
+2021-11-18 16:42:48,440 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:48,440 - basicLogger - INFO - end of processing
+2021-11-18 16:42:48,780 - basicLogger - INFO - Start processing
+2021-11-18 16:42:53,438 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:53,439 - basicLogger - INFO - end of processing
+2021-11-18 16:42:53,789 - basicLogger - INFO - Start processing
+2021-11-18 16:42:58,421 - basicLogger - INFO - events recieved 0
+2021-11-18 16:42:58,421 - basicLogger - INFO - end of processing
+2021-11-18 16:42:58,776 - basicLogger - INFO - Start processing
+2021-11-18 16:43:08,724 - basicLogger - INFO - events recieved 0
+2021-11-18 16:43:08,725 - basicLogger - INFO - end of processing
+2021-11-18 16:43:08,787 - basicLogger - INFO - Start processing
+2021-11-18 16:43:13,403 - basicLogger - INFO - events recieved 0
+2021-11-18 16:43:13,403 - basicLogger - INFO - end of processing
+2021-11-18 16:43:13,791 - basicLogger - INFO - Start processing
+2021-11-18 16:43:18,451 - basicLogger - INFO - events recieved 0
+2021-11-18 16:43:18,452 - basicLogger - INFO - end of processing
+2021-11-18 16:43:18,781 - basicLogger - INFO - Start processing
+2021-11-18 16:43:23,401 - basicLogger - INFO - events recieved 0
+2021-11-18 16:43:23,401 - basicLogger - INFO - end of processing
+2021-11-18 16:43:23,776 - basicLogger - INFO - Start processing
+2021-11-18 16:43:28,414 - basicLogger - INFO - events recieved 0
+2021-11-18 16:43:28,415 - basicLogger - INFO - end of processing
+2021-11-18 16:43:28,779 - basicLogger - INFO - Start processing
+2021-11-18 16:43:33,420 - basicLogger - INFO - events recieved 0
+2021-11-18 16:43:33,421 - basicLogger - INFO - end of processing
+2021-11-18 16:43:33,785 - basicLogger - INFO - Start processing
+2021-11-18 16:43:38,408 - basicLogger - INFO - events recieved 0
+2021-11-18 16:43:38,408 - basicLogger - INFO - end of processing
+2021-11-18 16:43:38,786 - basicLogger - INFO - Start processing
+2021-11-18 16:43:43,421 - basicLogger - INFO - events recieved 0
+2021-11-18 16:43:43,421 - basicLogger - INFO - end of processing
+2021-11-18 16:43:43,776 - basicLogger - INFO - Start processing
+2021-11-18 16:43:48,390 - basicLogger - INFO - events recieved 0
+2021-11-18 16:43:48,390 - basicLogger - INFO - end of processing
+2021-11-18 16:43:48,787 - basicLogger - INFO - Start processing
+2021-11-18 16:43:53,418 - basicLogger - INFO - events recieved 0
+2021-11-18 16:43:53,418 - basicLogger - INFO - end of processing
+2021-11-18 16:43:53,788 - basicLogger - INFO - Start processing
+2021-11-18 16:44:01,857 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:01,858 - basicLogger - INFO - end of processing
+2021-11-18 16:44:03,787 - basicLogger - INFO - Start processing
+2021-11-18 16:44:08,434 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:08,435 - basicLogger - INFO - end of processing
+2021-11-18 16:44:08,786 - basicLogger - INFO - Start processing
+2021-11-18 16:44:13,414 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:13,415 - basicLogger - INFO - end of processing
+2021-11-18 16:44:13,786 - basicLogger - INFO - Start processing
+2021-11-18 16:44:18,385 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:18,386 - basicLogger - INFO - end of processing
+2021-11-18 16:44:18,778 - basicLogger - INFO - Start processing
+2021-11-18 16:44:23,423 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:23,424 - basicLogger - INFO - end of processing
+2021-11-18 16:44:23,790 - basicLogger - INFO - Start processing
+2021-11-18 16:44:28,408 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:28,409 - basicLogger - INFO - end of processing
+2021-11-18 16:44:28,785 - basicLogger - INFO - Start processing
+2021-11-18 16:44:33,429 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:33,429 - basicLogger - INFO - end of processing
+2021-11-18 16:44:33,785 - basicLogger - INFO - Start processing
+2021-11-18 16:44:38,430 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:38,430 - basicLogger - INFO - end of processing
+2021-11-18 16:44:38,784 - basicLogger - INFO - Start processing
+2021-11-18 16:44:43,380 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:43,381 - basicLogger - INFO - end of processing
+2021-11-18 16:44:43,784 - basicLogger - INFO - Start processing
+2021-11-18 16:44:48,412 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:48,412 - basicLogger - INFO - end of processing
+2021-11-18 16:44:48,789 - basicLogger - INFO - Start processing
+2021-11-18 16:44:53,438 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:53,438 - basicLogger - INFO - end of processing
+2021-11-18 16:44:53,783 - basicLogger - INFO - Start processing
+2021-11-18 16:44:58,437 - basicLogger - INFO - events recieved 0
+2021-11-18 16:44:58,438 - basicLogger - INFO - end of processing
+2021-11-18 16:44:58,776 - basicLogger - INFO - Start processing
+2021-11-18 16:45:03,416 - basicLogger - INFO - events recieved 0
+2021-11-18 16:45:03,416 - basicLogger - INFO - end of processing
+2021-11-18 16:45:03,776 - basicLogger - INFO - Start processing
+2021-11-18 16:45:08,423 - basicLogger - INFO - events recieved 0
+2021-11-18 16:45:08,423 - basicLogger - INFO - end of processing
+2021-11-18 16:45:08,780 - basicLogger - INFO - Start processing
+2021-11-18 16:45:21,753 - basicLogger - INFO - events recieved 0
+2021-11-18 16:45:21,753 - basicLogger - INFO - end of processing
+2021-11-18 16:45:23,777 - basicLogger - INFO - Start processing
+2021-11-18 16:45:28,433 - basicLogger - INFO - events recieved 0
+2021-11-18 16:45:28,433 - basicLogger - INFO - end of processing
+2021-11-18 16:45:28,782 - basicLogger - INFO - Start processing
+2021-11-18 16:45:33,426 - basicLogger - INFO - events recieved 0
+2021-11-18 16:45:33,426 - basicLogger - INFO - end of processing
+2021-11-18 16:45:33,786 - basicLogger - INFO - Start processing
+2021-11-18 16:45:38,417 - basicLogger - INFO - events recieved 0
+2021-11-18 16:45:38,418 - basicLogger - INFO - end of processing
+2021-11-18 16:45:38,776 - basicLogger - INFO - Start processing
+2021-11-18 16:45:43,422 - basicLogger - INFO - events recieved 0
+2021-11-18 16:45:43,423 - basicLogger - INFO - end of processing
+2021-11-18 16:45:43,776 - basicLogger - INFO - Start processing
+2021-11-18 16:45:48,407 - basicLogger - INFO - events recieved 0
+2021-11-18 16:45:48,407 - basicLogger - INFO - end of processing
+2021-11-18 16:45:48,778 - basicLogger - INFO - Start processing
+2021-11-18 16:45:53,425 - basicLogger - INFO - events recieved 0
+2021-11-18 16:45:53,426 - basicLogger - INFO - end of processing
+2021-11-18 16:45:53,786 - basicLogger - INFO - Start processing
+2021-11-18 16:45:58,446 - basicLogger - INFO - events recieved 0
+2021-11-18 16:45:58,447 - basicLogger - INFO - end of processing
+2021-11-18 16:45:58,782 - basicLogger - INFO - Start processing
+2021-11-18 16:46:03,412 - basicLogger - INFO - events recieved 0
+2021-11-18 16:46:03,412 - basicLogger - INFO - end of processing
+2021-11-18 16:46:03,776 - basicLogger - INFO - Start processing
+2021-11-18 16:46:08,419 - basicLogger - INFO - events recieved 0
+2021-11-18 16:46:08,420 - basicLogger - INFO - end of processing
+2021-11-18 16:46:08,785 - basicLogger - INFO - Start processing
+2021-11-18 16:46:13,419 - basicLogger - INFO - events recieved 0
+2021-11-18 16:46:13,419 - basicLogger - INFO - end of processing
+2021-11-18 16:46:13,777 - basicLogger - INFO - Start processing
+2021-11-18 16:46:18,434 - basicLogger - INFO - events recieved 0
+2021-11-18 16:46:18,434 - basicLogger - INFO - end of processing
+2021-11-18 16:46:18,779 - basicLogger - INFO - Start processing
+2021-11-18 16:46:23,413 - basicLogger - INFO - events recieved 0
+2021-11-18 16:46:23,414 - basicLogger - INFO - end of processing
+2021-11-18 16:46:23,784 - basicLogger - INFO - Start processing
+2021-11-18 16:46:31,670 - basicLogger - INFO - events recieved 0
+2021-11-18 16:46:31,671 - basicLogger - INFO - end of processing
+2021-11-18 16:46:33,788 - basicLogger - INFO - Start processing
+2021-11-18 16:46:40,990 - basicLogger - INFO - events recieved 0
+2021-11-18 16:46:40,991 - basicLogger - INFO - end of processing
+2021-11-18 16:46:43,790 - basicLogger - INFO - Start processing
+2021-11-18 16:46:48,442 - basicLogger - INFO - events recieved 0
+2021-11-18 16:46:48,442 - basicLogger - INFO - end of processing
+2021-11-18 16:46:48,789 - basicLogger - INFO - Start processing
+2021-11-18 16:46:53,439 - basicLogger - INFO - events recieved 0
+2021-11-18 16:46:53,439 - basicLogger - INFO - end of processing
+2021-11-18 16:46:53,780 - basicLogger - INFO - Start processing
+2021-11-18 16:46:58,430 - basicLogger - INFO - events recieved 0
+2021-11-18 16:46:58,431 - basicLogger - INFO - end of processing
+2021-11-18 16:46:58,780 - basicLogger - INFO - Start processing
+2021-11-18 16:47:03,431 - basicLogger - INFO - events recieved 0
+2021-11-18 16:47:03,431 - basicLogger - INFO - end of processing
+2021-11-18 16:47:03,786 - basicLogger - INFO - Start processing
+2021-11-18 16:47:08,460 - basicLogger - INFO - events recieved 0
+2021-11-18 16:47:08,461 - basicLogger - INFO - end of processing
+2021-11-18 16:47:08,777 - basicLogger - INFO - Start processing
+2021-11-18 16:47:13,407 - basicLogger - INFO - events recieved 0
+2021-11-18 16:47:13,408 - basicLogger - INFO - end of processing
+2021-11-18 16:47:13,776 - basicLogger - INFO - Start processing
+2021-11-18 16:47:18,428 - basicLogger - INFO - events recieved 0
+2021-11-18 16:47:18,428 - basicLogger - INFO - end of processing
+2021-11-18 16:47:18,787 - basicLogger - INFO - Start processing
+2021-11-18 16:47:23,443 - basicLogger - INFO - events recieved 0
+2021-11-18 16:47:23,443 - basicLogger - INFO - end of processing
+2021-11-18 16:47:23,790 - basicLogger - INFO - Start processing
+2021-11-18 16:47:28,480 - basicLogger - INFO - events recieved 0
+2021-11-18 16:47:28,480 - basicLogger - INFO - end of processing
+2021-11-18 16:47:28,783 - basicLogger - INFO - Start processing
+2021-11-18 16:47:33,425 - basicLogger - INFO - events recieved 0
+2021-11-18 16:47:33,425 - basicLogger - INFO - end of processing
+2021-11-18 16:47:33,776 - basicLogger - INFO - Start processing
+2021-11-18 16:47:38,446 - basicLogger - INFO - events recieved 0
+2021-11-18 16:47:38,447 - basicLogger - INFO - end of processing
+2021-11-18 16:47:38,782 - basicLogger - INFO - Start processing
+2021-11-18 16:47:43,417 - basicLogger - INFO - events recieved 0
+2021-11-18 16:47:43,417 - basicLogger - INFO - end of processing
+2021-11-18 16:47:43,790 - basicLogger - INFO - Start processing
+2021-11-18 16:47:48,431 - basicLogger - INFO - events recieved 0
+2021-11-18 16:47:48,431 - basicLogger - INFO - end of processing
+2021-11-18 16:47:48,784 - basicLogger - INFO - Start processing
+2021-11-18 16:48:00,531 - basicLogger - INFO - events recieved 0
+2021-11-18 16:48:00,531 - basicLogger - INFO - end of processing
+2021-11-18 16:48:03,789 - basicLogger - INFO - Start processing
+2021-11-18 16:48:08,426 - basicLogger - INFO - events recieved 0
+2021-11-18 16:48:08,427 - basicLogger - INFO - end of processing
+2021-11-18 16:48:08,787 - basicLogger - INFO - Start processing
+2021-11-18 16:48:13,462 - basicLogger - INFO - events recieved 0
+2021-11-18 16:48:13,463 - basicLogger - INFO - end of processing
+2021-11-18 16:48:13,787 - basicLogger - INFO - Start processing
+2021-11-18 16:48:18,446 - basicLogger - INFO - events recieved 0
+2021-11-18 16:48:18,447 - basicLogger - INFO - end of processing
+2021-11-18 16:48:18,784 - basicLogger - INFO - Start processing
+2021-11-18 16:48:23,420 - basicLogger - INFO - events recieved 0
+2021-11-18 16:48:23,420 - basicLogger - INFO - end of processing
+2021-11-18 16:48:23,787 - basicLogger - INFO - Start processing
+2021-11-18 16:48:28,426 - basicLogger - INFO - events recieved 0
+2021-11-18 16:48:28,426 - basicLogger - INFO - end of processing
+2021-11-18 16:48:28,788 - basicLogger - INFO - Start processing
+2021-11-18 16:48:33,442 - basicLogger - INFO - events recieved 0
+2021-11-18 16:48:33,442 - basicLogger - INFO - end of processing
+2021-11-18 16:48:33,784 - basicLogger - INFO - Start processing
+2021-11-18 16:48:38,419 - basicLogger - INFO - events recieved 0
+2021-11-18 16:48:38,419 - basicLogger - INFO - end of processing
+2021-11-18 16:48:38,777 - basicLogger - INFO - Start processing
